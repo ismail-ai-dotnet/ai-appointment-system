@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\AppointmentBookingWithChatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|e:\\new folder\\appointmentbookingwithchatbot\\appointmentbookingwithchatbot\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6786E89E-F91B-6E25-1005-636EAE024073}|AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot.csproj|solutionrelative:appointmentbookingwithchatbot\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Views\\Appointments\\Index.cshtml",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Views\\Appointments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T15:39:20.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Views\\Appointments\\Create.cshtml",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Views\\Appointments\\Create.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-09T13:27:33.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-09T13:19:39.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T11:21:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Views\\Home\\Services.cshtml",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Views\\Home\\Services.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T11:19:07.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:17:23.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T11:15:21.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADgvzwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:12:11.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\appsettings.json",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\appsettings.json",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T11:05:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T11:22:58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Program.cs",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Program.cs",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:07:36.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:02:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppointmentBookingWithChatbot\\Models\\Appointment.cs",
+              "ToolTip": "E:\\New folder\\AppointmentBookingWithChatbot\\AppointmentBookingWithChatbot\\Models\\Appointment.cs",
+              "RelativeToolTip": "AppointmentBookingWithChatbot\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:59:04.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
